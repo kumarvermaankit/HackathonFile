@@ -16,12 +16,17 @@ To address the above we have MIDDLEMAN, an outsourcing platform of various produ
 The last point can be elaborated as, if one supplier can supply only 40% in quantity of one tender and other 2 can supply for 30% each, they can have a discussion over price and various other factors in the chatbox, thus they can fill that tender in collaboration with each other, which will increase one’s chance of getting an order.
 
 Work Done So Far
+
+
+
 Created front page for companies to post tenders and to specify things about it.
 Created basic ui and linked functioning of each button with database.
 Working on rating system for each use and profile setup
 
 
 Plan for next 12 hours
+
+
 •	We have to improve backend side to this website.
 •	Add a way to rate every person after completion of one deal/task/job.
 •	Add better UI to have better user interaction.
